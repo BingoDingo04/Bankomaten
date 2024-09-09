@@ -6,7 +6,7 @@ namespace Bankomaten
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Välkommen till Bank AB!");
+            Console.WriteLine("Välkommen till Bank!");
 
             // Array för användare där varje rad representerar {användarID, lösenord}
             int[,] users = { { 1, 1111 }, { 2, 2222 }, { 3, 3333 }, { 4, 4444 }, { 5, 5555 } };
